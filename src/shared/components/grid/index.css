@@ -1,0 +1,33 @@
+.app-grid-wrapper {
+  width: 100%;
+  overflow-x: auto;
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid #e5e7eb;
+}
+
+.app-grid {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.app-grid th {
+  background-color: #eff6ff;
+  color: #1e3a8a;
+  text-align: left;
+  font-size: 14px;
+  padding: 14px;
+  border-bottom: 1px solid #dbeafe;
+}
+
+.app-grid td {
+  padding: 12px 14px;
+  border-bottom: 1px solid #e5e7eb;
+  vertical-align: middle;
+}
+
+.app-grid-empty {
+  text-align: center;
+  padding: 20px;
+  color: #6b7280;
+}

@@ -1,0 +1,17 @@
+.app-textbox {
+  width: 100%;
+  padding: 9px 10px;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+  outline: none;
+  font-size: 14px;
+  background-color: white;
+}
+
+.app-textbox:focus {
+  border-color: #2563eb;
+}
+
+.app-textbox-readonly {
+  background-color: #e5e7eb;
+}

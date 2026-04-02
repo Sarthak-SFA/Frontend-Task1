@@ -1,0 +1,27 @@
+.state-table-page {
+  max-width: 1100px;
+  margin: 40px auto;
+  padding: 24px;
+}
+
+.state-table-header {
+  margin-bottom: 20px;
+}
+
+.state-table-title {
+  margin: 0 0 8px;
+  font-size: 28px;
+  color: #111827;
+}
+
+.state-table-subtitle {
+  margin: 0;
+  color: #6b7280;
+  font-size: 14px;
+}
+
+.state-table-actions {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 16px;
+}
